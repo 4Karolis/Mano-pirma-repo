@@ -12,6 +12,7 @@ namespace GitProject
             Console.WriteLine("changes from feature branch 2");
             Console.WriteLine("Feature branch 3");
             Console.WriteLine("CHamnges from feature branch 3");
+            Console.WriteLine("Feature branch 4");
         }
     }
 }
